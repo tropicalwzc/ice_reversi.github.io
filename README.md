@@ -1,7 +1,7 @@
 # ice_reversi 
-## 多线程黑白棋AI
+## 多线程黑白棋AI,提供了1.0.7开源版本代码
 
-## 下载
+## 1.6.3 得到黑白棋AI评测亚军的完成版下载
 ### Windows <https://github.com/tropicalwzc/ice_reversi.github.io/blob/master/ice%20reversi%201.6.3.zip>
 ### macOS <https://github.com/tropicalwzc/ice_reversi.github.io/blob/master/ice%20reversi%201.6.3%20macOS.zip>
 
