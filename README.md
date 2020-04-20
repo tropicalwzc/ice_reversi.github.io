@@ -6,5 +6,5 @@
 ### Windows <https://pan.baidu.com/s/1QwfKPWdxJW9Wz7hrtBFsNQ>
 ### macOS <https://pan.baidu.com/s/1GvaGKXY7Q1a_kxnuS3kGpA>
 
-
+## 啦啦啦，能耗问题解决，IOS版本将在近期上线
 
